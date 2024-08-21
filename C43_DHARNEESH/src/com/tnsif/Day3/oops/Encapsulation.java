@@ -1,4 +1,4 @@
-package com.tnsif.DayThree.oops;
+package com.tnsif.Day3.oops;
 
 public class Encapsulation {
 		String Name; // this is called as instance variable.
